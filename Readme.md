@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/SayanBan/Picture-Links/blob/master/bandyopadhyay-badge-hydra19x.png" />
+<img align="center" alt="GIF" width="200px" src="https://github.com/SayanBan/Picture-Links/blob/master/bandyopadhyay-badge-hydra19x.png" />
 
 <br><br>
 ### Hey !! I'm Sayan
