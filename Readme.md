@@ -1,3 +1,5 @@
+<a href="https://github.com/SayanBan/"><img align="center" alt="Sayan's Badge" width="150px" src="https://github.com/SayanBan/Picture-Links/blob/master/bandyopadhyay-badge-hydra19x.png" />
+<br><br>
 ### Hey !! I'm Sayan
 
 <a href="https://www.linkedin.com/in/SayanBan">
