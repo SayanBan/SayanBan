@@ -48,6 +48,6 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Facilitator** for DSC TIU and
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=SayanBan&show_icons=true&theme=tokyonight)
+<br>![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=SayanBan&show_icons=true&theme=tokyonight)
 
 ⭐️ From [SayanBan](https://github.com/SayanBan)
