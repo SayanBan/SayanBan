@@ -1,4 +1,4 @@
-<center><a href="https://github.com/SayanBan/"><img align="center" alt="Sayan's Badge" width="550px" src="https://github.com/SayanBan/Picture-Links/blob/master/bandyopadhyay-badge-hydra19x.png" /><center>
+<a href="https://github.com/SayanBan/"><img align="center" alt="Sayan's Badge" width="550px" src="https://github.com/SayanBan/Picture-Links/blob/master/bandyopadhyay-badge-hydra19x.png" /></a>
 <br><br>
 ### Hey !! I'm Sayan
 
