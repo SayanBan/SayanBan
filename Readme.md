@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Facilitator** for DSC TIU and a **Computer Science Engineering Undergraduate student** 🚀 from India.  Currently, I'm a Content writer 🙍 [@SayanBan](https://medium.com/SayanBan), a web dev facilitator and a Content Writing intern 👨🏽‍💼. 
+Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer Science Engineering Undergraduate student** 🚀 from India.  Currently, I'm a Content writer 🙍 [@SayanBan](https://medium.com/SayanBan), a former web dev facilitator at Google Developer Student Club, TIU 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
