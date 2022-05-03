@@ -25,6 +25,7 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 
 **Talking about Personal Stuffs:**
 
+* :computer: Working at 360 Degree Cloud Technologies as a software Developer
 * :man_student: Studies Computer Science and Engineering at Techno India University,WB
 * :computer: Writes code in HTML, CSS & JavaScript
 * :globe_with_meridians: Trying to Make Web Pages and Websites
