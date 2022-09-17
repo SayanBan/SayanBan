@@ -25,15 +25,15 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 
 **Talking about Personal Stuffs:**
 
-* :computer: Working at 360 Degree Cloud Technologies as a software Developer
-* :man_student: Studies Computer Science and Engineering at Techno India University,WB
-* :computer: Writes code in HTML, CSS & JavaScript
+* :computer: Working at 360 Degree Cloud Technologies as a Salesforce Developer
+* :man_student: Completed Btech in Computer Science and Engineering from Techno India University,WB
+* :computer: Loves to do creative works with HTML, CSS and JS.
 * :globe_with_meridians: Trying to Make Web Pages and Websites
 * :open_book: Learning Web Development
-* :cry: Strugling with Computer Graphics 
+* :cry: Struggling with being single
 * :tv: Loves to see Web series and Movies
 * :video_game: Plays action games
-* :writing_hand: Writes and maintaines blogs [here](https://medium.com/@SayanBan)
+* :writing_hand: Writes and maintains blogs [here](https://medium.com/@SayanBan)
 
 
 **Languages and Tools:**  
@@ -48,6 +48,7 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/512px-Salesforce.com_logo.svg.png"></code>
 
 <br>![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=SayanBan&show_icons=true&theme=tokyonight)
 
