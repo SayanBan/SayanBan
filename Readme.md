@@ -25,7 +25,8 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 
 **Talking about Personal Stuffs:**
 
-* :computer: Working at 360 Degree Cloud Technologies as a Salesforce Developer
+* :black_nib: Currently studying at a B-School
+* :computer: Worked as a Salesforce developer for one year
 * :man_student: Completed Btech in Computer Science and Engineering from Techno India University,WB
 * :computer: Loves to do creative works with HTML, CSS and JS.
 * :globe_with_meridians: Trying to Make Web Pages and Websites
