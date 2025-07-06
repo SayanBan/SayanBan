@@ -39,17 +39,7 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 
 **Languages and Tools:**
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/salesforce/salesforce.png" height="20"/>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,salesforce)](https://skillicons.dev)
 
 <br>![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=SayanBan&show_icons=true&theme=tokyonight)
 
