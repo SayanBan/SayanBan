@@ -37,19 +37,18 @@ Hi there, I'm **Sayan Bandyopadhyay**, a **Web Dev Enthusiast** and a **Computer
 * :writing_hand: Writes and maintains blogs [here](https://medium.com/@SayanBan)
 
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/512px-Salesforce.com_logo.svg.png">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/salesforce/salesforce.png" height="20"/>
 
 
 <br>![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=SayanBan&show_icons=true&theme=tokyonight)
